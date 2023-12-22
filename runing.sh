@@ -1,0 +1,1 @@
+tsc && node compile/index.js
